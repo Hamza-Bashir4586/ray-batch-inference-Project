@@ -1,0 +1,7 @@
+ray
+torch
+torchvision
+pymysql
+numpy
+matplotlib
+sqlite3
