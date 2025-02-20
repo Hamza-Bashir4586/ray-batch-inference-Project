@@ -1,0 +1,4 @@
+batch_size,inference_time
+20,0.35
+40,0.22
+80,0.15
