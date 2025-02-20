@@ -35,11 +35,10 @@ python examples/example_usage.py
 pytest tests/
 ```
 ***Benchmarks***
-Batch Size	   Inference Time (seconds)
-20	           0.35
-40	           0.22
-80	           0.15
-
+batch_size,inference_time
+20,0.35
+40,0.22
+80,0.15
 Using Ray reduced inference time by ~2x compared to sequential processing.
 Average inference time per batch: 0.22 seconds.
 
